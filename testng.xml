@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Chandini">
+
+	
+  <test name="Chandini">
+    <classes>
+      <class name="TestCases.TC_001_Login"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

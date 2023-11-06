@@ -1,0 +1,2 @@
+cd C:\Users\91967\eclipse-workspace\SwayamSikkim
+mvn clean install
